@@ -1,0 +1,9 @@
+title: "Market Title"
+row: 3
+market:
+  item-1:
+    item:
+      material: APPLE
+      name: "ELMAHĞĞ"
+    money: 500.0
+    slot: 12

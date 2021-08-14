@@ -1,0 +1,5 @@
+name: KMarket
+main: kMarket.KlouvMarket
+version: 1.0
+commands:
+  market: {}
